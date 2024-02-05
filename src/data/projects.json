@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Student Login",
+    "imageSrc": "projects/project.png",
+    "description": "This is a basic student login project, If student registered successfully then he/she can able to login.",
+    "skills": ["React", "JavaScript", "Spring Boot", "MySQL"]
+  },
+  {
+    "title": "Employee management",
+    "imageSrc": "projects/project.png",
+    "description": "Employee management details with CRUD operations and also stored those details in MySQL database using spring boot.",
+    "skills": ["React", "JavaScript", "Spring Boot", "MySQL"]
+  }
+]

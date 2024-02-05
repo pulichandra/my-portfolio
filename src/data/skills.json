@@ -1,0 +1,30 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Spring Boot",
+    "imageSrc": "skills/springboot.png"
+  },
+  {
+    "title": "GIT hub",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/amazon-aws.png"
+  }
+]
